@@ -1,0 +1,15 @@
+@model MyMvcApp.Models.User
+
+<form asp-action="Create" method="post">
+    <div>
+        <label asp-for="FirstName"</label>
+        <input asp-for="FirstName" class="form-control" />
+    </div>
+
+    <div>
+        <label asp-for="LastName"</label>
+        <input asp-for="LastName" class="form-control" />
+    </div>
+
+    <button type="submit">Submit</button>
+</form>
