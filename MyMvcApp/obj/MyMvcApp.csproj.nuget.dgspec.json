@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Brooke\\Documents\\TechAss\\Small-web-app\\MyMvcApp\\MyMvcApp.csproj": {}
+    "C:\\Users\\Brooke\\Documents\\newnewnew\\Small-web-app\\MyMvcApp\\MyMvcApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Brooke\\Documents\\TechAss\\Small-web-app\\MyMvcApp\\MyMvcApp.csproj": {
+    "C:\\Users\\Brooke\\Documents\\newnewnew\\Small-web-app\\MyMvcApp\\MyMvcApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brooke\\Documents\\TechAss\\Small-web-app\\MyMvcApp\\MyMvcApp.csproj",
+        "projectUniqueName": "C:\\Users\\Brooke\\Documents\\newnewnew\\Small-web-app\\MyMvcApp\\MyMvcApp.csproj",
         "projectName": "MyMvcApp",
-        "projectPath": "C:\\Users\\Brooke\\Documents\\TechAss\\Small-web-app\\MyMvcApp\\MyMvcApp.csproj",
+        "projectPath": "C:\\Users\\Brooke\\Documents\\newnewnew\\Small-web-app\\MyMvcApp\\MyMvcApp.csproj",
         "packagesPath": "C:\\Users\\Brooke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brooke\\Documents\\TechAss\\Small-web-app\\MyMvcApp\\obj\\",
+        "outputPath": "C:\\Users\\Brooke\\Documents\\newnewnew\\Small-web-app\\MyMvcApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Brooke\\AppData\\Roaming\\NuGet\\NuGet.Config"
