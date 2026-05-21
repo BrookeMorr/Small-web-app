@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ebtEmFANVrz1EnW41/8Vmcm9T+PsYbQT4MyvQluWJA4=",
+  "Hash": "rMJJqH4vXW3CNtx9ZglN//smUhlr9fAd2F+ZjZCncS0=",
   "Source": "MyMvcApp",
   "BasePath": "_content/MyMvcApp",
   "Mode": "Default",
@@ -16,44 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\Brooke\\Documents\\newnewnew\\Small-web-app\\MyMvcApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyMvcApp.styles.css",
-      "SourceId": "MyMvcApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Brooke\\Documents\\newnewnew\\Small-web-app\\MyMvcApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/MyMvcApp",
-      "RelativePath": "MyMvcApp.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Brooke\\Documents\\newnewnew\\Small-web-app\\MyMvcApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyMvcApp.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\Brooke\\Documents\\newnewnew\\Small-web-app\\MyMvcApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyMvcApp.bundle.scp.css",
-      "SourceId": "MyMvcApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Brooke\\Documents\\newnewnew\\Small-web-app\\MyMvcApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/MyMvcApp",
-      "RelativePath": "MyMvcApp.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Brooke\\Documents\\newnewnew\\Small-web-app\\MyMvcApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyMvcApp.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\Brooke\\Documents\\newnewnew\\Small-web-app\\MyMvcApp\\wwwroot\\css\\site.css",
       "SourceId": "MyMvcApp",
@@ -72,25 +34,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
-    },
-    {
-      "Identity": "C:\\Users\\Brooke\\Documents\\newnewnew\\Small-web-app\\MyMvcApp\\wwwroot\\favicon.ico",
-      "SourceId": "MyMvcApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Brooke\\Documents\\newnewnew\\Small-web-app\\MyMvcApp\\wwwroot\\",
-      "BasePath": "_content/MyMvcApp",
-      "RelativePath": "favicon.ico",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
       "Identity": "C:\\Users\\Brooke\\Documents\\newnewnew\\Small-web-app\\MyMvcApp\\wwwroot\\js\\site.js",

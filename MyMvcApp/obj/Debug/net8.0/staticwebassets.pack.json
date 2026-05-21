@@ -1,16 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Brooke\\Documents\\newnewnew\\Small-web-app\\MyMvcApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyMvcApp.bundle.scp.css",
-      "PackagePath": "staticwebassets\\MyMvcApp.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\Brooke\\Documents\\newnewnew\\Small-web-app\\MyMvcApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
-      "Id": "C:\\Users\\Brooke\\Documents\\newnewnew\\Small-web-app\\MyMvcApp\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
       "Id": "C:\\Users\\Brooke\\Documents\\newnewnew\\Small-web-app\\MyMvcApp\\wwwroot\\js\\site.js",

@@ -5,7 +5,9 @@ using MyMvcApp.Models;
 namespace MyMvcApp.Controllers;
 
 public class UserController : Controller
-{
+{   
+    private static List<User> Users = new List<User>();
+
     // Making the form for user
     [HttpGet]
     public IActionResult Create()
@@ -15,17 +17,28 @@ public class UserController : Controller
 
     // Handles the form submission
     [HttpPost]
-    public IActionResult Create(User user)
+    public IActionResult Create(User user) {
+    if (!ModelState.IsValid)
+        return View(user);
+
+    Users.Add(user);
+
+    return RedirectToAction("Success", new
     {
-        if (!ModelState.IsValid)
-            return View(user);
-        // No datebase, so no persistence currently
-        return RedirectToAction("Success", user);
+        firstName = user.FirstName,
+        lastName = user.LastName
+    });
     }
 
-    public IActionResult Success(User user)
+    public IActionResult Success(string firstName, string lastName)
     {
-        return View(user);
+    var user = new User
+    {
+        FirstName = firstName,
+        LastName = lastName
+    };
+
+    return View(user);
     }
 }
 
