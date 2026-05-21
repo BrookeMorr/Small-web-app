@@ -1,15 +1,16 @@
 @model MyMvcApp.Models.User
+<header>
+    <H1> Simple MVC application </H1>
+</header>
 
-<h2> Please enter details: </h2>
+<H2> Please enter details: </H2>
 <form asp-action="Create" method="post">
     <div>
-        <label asp-for="FirstName">First name:</label>
-        <input asp-for="FirstName" class="form-control" />
+        <input asp-for="FirstName" class="form-control" placeholder="First name" />
     </div>
 
     <div>
-        <label asp-for="LastName">Last name:</label>
-        <input asp-for="LastName" class="form-control" />
+        <input asp-for="LastName" class="form-control" placeholder="Last name"/>
     </div>
 
     <button type="submit">Submit</button>

@@ -15,8 +15,100 @@ html {
 html {
   position: relative;
   min-height: 100%;
+  font-size: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+  margin-bottom: 60px; 
+  height: 100vh;
+  margin: 0;
+}
+
+header {
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 40px;
+  border-radius: 20px;
+}
+
+h2 {
+  text-align: center;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+/* for inputs of form*/
+div {
+  padding-top: 5px;
+  padding-right: 20px;
+  padding-bottom: 5px;
+  padding-left: 80px;
+  text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;   /* THIS fixes your issue */
+    align-items: center;
+    gap: 15px;
+}
+
+input {
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1.15;
+  overflow: visible;
+
+  justify-content: center;   
+  align-items: center;    
+  width: 500px;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  display: flex; 
+
+  margin: 0;
+  font-size: 18px;
+  padding: 10px 10px 10px 5px;
+  
+  border: none;
+  border-bottom: 1px solid #757575;
+  border-top: 3px solid #fff;
+}
+
+.input-container {
+  width: 600px;
+  display: block;
+  background: #fff;
+  padding: 10px 50px 50px;
+  margin:
+   50px 30%;
+}
+/* submit button */
+button {
+  padding-top: 30px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 12px 24px;
+  color: #ffffff;
+  background-color:#007bff; /* Primary blue */
+  border: none;
+  border-radius: 8px; /* Rounded corners */
+  transition: all 0.3s ease; /* Smooth state changes */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle depth */
+}
+
+button:hover {
+  background-color: #0056b3;
+  transform: translateY(-2px); /* Lifts up slightly */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+button:active {
+  padding-top: 30px;
+  transform: translateY(1px); /* Moves down when clicked */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }

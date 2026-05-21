@@ -21,9 +21,7 @@ C:\Users\Brooke\Documents\newnewnew\Small-web-app\MyMvcApp\obj\Debug\net8.0\stat
 C:\Users\Brooke\Documents\newnewnew\Small-web-app\MyMvcApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyMvcApp.props
 C:\Users\Brooke\Documents\newnewnew\Small-web-app\MyMvcApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyMvcApp.props
 C:\Users\Brooke\Documents\newnewnew\Small-web-app\MyMvcApp\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Brooke\Documents\newnewnew\Small-web-app\MyMvcApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Brooke\Documents\newnewnew\Small-web-app\MyMvcApp\obj\Debug\net8.0\scopedcss\bundle\MyMvcApp.styles.css
-C:\Users\Brooke\Documents\newnewnew\Small-web-app\MyMvcApp\obj\Debug\net8.0\scopedcss\projectbundle\MyMvcApp.bundle.scp.css
 C:\Users\Brooke\Documents\newnewnew\Small-web-app\MyMvcApp\obj\Debug\net8.0\MyMvcApp.dll
 C:\Users\Brooke\Documents\newnewnew\Small-web-app\MyMvcApp\obj\Debug\net8.0\refint\MyMvcApp.dll
 C:\Users\Brooke\Documents\newnewnew\Small-web-app\MyMvcApp\obj\Debug\net8.0\MyMvcApp.pdb

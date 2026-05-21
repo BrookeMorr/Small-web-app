@@ -18,16 +18,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Brooke\Documents\newnewnew\Small-web-app\MyMvcApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Brooke/Documents/newnewnew/Small-web-app/MyMvcApp/Views/Home/create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjcmVhdGUuY3NodG1s
+[C:/Users/Brooke/Documents/newnewnew/Small-web-app/MyMvcApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Brooke/Documents/newnewnew/Small-web-app/MyMvcApp/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Users/Brooke/Documents/newnewnew/Small-web-app/MyMvcApp/Views/User/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Brooke/Documents/newnewnew/Small-web-app/MyMvcApp/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/Brooke/Documents/newnewnew/Small-web-app/MyMvcApp/Views/User/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTdWNjZXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Brooke/Documents/newnewnew/Small-web-app/MyMvcApp/Views/_ViewImports.cshtml]
@@ -37,7 +37,3 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/Brooke/Documents/newnewnew/Small-web-app/MyMvcApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Brooke/Documents/newnewnew/Small-web-app/MyMvcApp/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-ujr1yed5n4
